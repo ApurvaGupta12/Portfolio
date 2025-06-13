@@ -20,4 +20,5 @@ A sleek and responsive personal portfolio website to showcase my projects, skill
 
 ##  Tech Stack
 - HTML
-- Bootstrap
+- CSS
+- JavaScript
